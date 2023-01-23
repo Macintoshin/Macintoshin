@@ -9,9 +9,9 @@ I like to make Websites! I know HTML, CSS, and currently learning JS.
 Check out my friends Profiles!
 
 
-[Praxor](https://github.com/praxor)
+- [Praxor](https://github.com/praxor)
 
 
-[NotLarv](https://github.com/notlarvi)
+- [NotLarv](https://github.com/notlarvi)
 
 
