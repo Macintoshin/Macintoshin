@@ -1,5 +1,5 @@
 ### Hello! Welcome to my github profile     ![Mac](https://macintoshing.tk/Img/dead.png)
-## https://Macintoshing.tk/
+## https://easfrq.live/
 **I'm Macintoshing...**
 
 
@@ -13,5 +13,8 @@ Check out my friends Profiles!
 
 
 - [NotLarv](https://github.com/notlarvi)
+
+
+- [StickOdyssey](https://github.com/StickOdyssey)
 
 
