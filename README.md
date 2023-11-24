@@ -1,4 +1,4 @@
-### Hello! Welcome to my github profile     ![Mac](https://macintoshing.tk/Img/dead.png)
+### Hello! Welcome to my github profile
 ## https://easfrq.live/
 **I'm Macintoshing...**
 
